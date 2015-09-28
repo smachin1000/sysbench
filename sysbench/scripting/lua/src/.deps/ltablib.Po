@@ -1,0 +1,90 @@
+ltablib.o: ltablib.c \
+ /opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/stdc-predef.h \
+ /opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/lib/gcc/arm-linux-gnueabihf/4.8.4/include/stddef.h \
+ lua.h \
+ /opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/lib/gcc/arm-linux-gnueabihf/4.8.4/include/stdarg.h \
+ luaconf.h ../../../../config/config.h \
+ /opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/lib/gcc/arm-linux-gnueabihf/4.8.4/include-fixed/limits.h \
+ /opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/lib/gcc/arm-linux-gnueabihf/4.8.4/include-fixed/syslimits.h \
+ /opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/limits.h \
+ /opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/features.h \
+ /opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/sys/cdefs.h \
+ /opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/bits/wordsize.h \
+ /opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/gnu/stubs.h \
+ /opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/gnu/stubs-hard.h \
+ /opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/bits/posix1_lim.h \
+ /opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/bits/local_lim.h \
+ /opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/linux/limits.h \
+ /opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/bits/posix2_lim.h \
+ /opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/bits/xopen_lim.h \
+ /opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/bits/stdio_lim.h \
+ lauxlib.h \
+ /opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/stdio.h \
+ /opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/bits/types.h \
+ /opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/bits/typesizes.h \
+ /opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/libio.h \
+ /opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/_G_config.h \
+ /opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/wchar.h \
+ /opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/bits/sys_errlist.h \
+ /opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/bits/stdio.h \
+ lualib.h
+
+/opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/stdc-predef.h:
+
+/opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/lib/gcc/arm-linux-gnueabihf/4.8.4/include/stddef.h:
+
+lua.h:
+
+/opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/lib/gcc/arm-linux-gnueabihf/4.8.4/include/stdarg.h:
+
+luaconf.h:
+
+../../../../config/config.h:
+
+/opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/lib/gcc/arm-linux-gnueabihf/4.8.4/include-fixed/limits.h:
+
+/opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/lib/gcc/arm-linux-gnueabihf/4.8.4/include-fixed/syslimits.h:
+
+/opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/limits.h:
+
+/opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/features.h:
+
+/opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/sys/cdefs.h:
+
+/opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/bits/wordsize.h:
+
+/opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/gnu/stubs.h:
+
+/opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/gnu/stubs-hard.h:
+
+/opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/bits/posix1_lim.h:
+
+/opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/bits/local_lim.h:
+
+/opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/linux/limits.h:
+
+/opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/bits/posix2_lim.h:
+
+/opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/bits/xopen_lim.h:
+
+/opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/bits/stdio_lim.h:
+
+lauxlib.h:
+
+/opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/stdio.h:
+
+/opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/bits/types.h:
+
+/opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/bits/typesizes.h:
+
+/opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/libio.h:
+
+/opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/_G_config.h:
+
+/opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/wchar.h:
+
+/opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/bits/sys_errlist.h:
+
+/opt/armv7-marvell-linux-gnueabihf-hard-4.8.4_i686_20150116/arm-linux-gnueabihf/libc/usr/include/bits/stdio.h:
+
+lualib.h:
