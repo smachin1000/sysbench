@@ -179,6 +179,8 @@ static void print_header(void);
 static void print_usage(void);
 static void print_run_mode(sb_test_t *);
 
+// Mod needed to get cross compile to ARM to work
+///////////////////////////////////////////////////////////////
 #if HAVE_CONFIG_H
 # include <config.h>
 #endif
@@ -197,6 +199,7 @@ void* rpl_malloc (size_t n)
     n = 1;
   return malloc (n);
 }
+///////////////////////////////////////////////////////////////
 
 #ifdef HAVE_ALARM
 static void sigalrm_handler(int sig)
